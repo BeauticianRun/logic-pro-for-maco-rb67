@@ -1,4 +1,4 @@
-# 
+# new Logic Pro for macOS Script | normalization + stream-overlays is the best Logic Pro for macOS script, featuring normalization and stream-overlays. Safe, efficient, and
 
 
 
